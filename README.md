@@ -8,7 +8,7 @@ TestNG Framework
 
 This is a multibrowsing, multienvironment Maven project.
 
-It can be run in the following environments: DEV INT PREPROP PROD
+It can be run in the following environments: DEV INT PREPROD PROD
 
 The test can be triggered with the following command:
 
